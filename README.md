@@ -17,7 +17,7 @@
 ## 安装
 
 ```shell
-$ composer require jiannei/spark-ai -vvv
+$ composer require niclalalla/spark-ai -vvv
 ```
 
 ## 使用
